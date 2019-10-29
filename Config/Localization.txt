@@ -1,0 +1,5 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+cntBookcaseEmpty,blocks,Container,New,Bookcase,,,,,
+cntFileCabinetTallOpen,blocks,Container,New,File Cabinet,,,,,
+cntFileCabinetShortOpen,blocks,Container,New,File Cabinet,,,,,
